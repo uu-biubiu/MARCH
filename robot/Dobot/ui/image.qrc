@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="png">
+    <file>iMIND.png</file>
+  </qresource>
+</RCC>
